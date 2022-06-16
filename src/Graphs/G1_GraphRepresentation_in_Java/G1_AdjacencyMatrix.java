@@ -1,6 +1,6 @@
 package Graphs.G1_GraphRepresentation_in_Java;
 
-public class GR1_AdjacencyMatrix
+public class G1_AdjacencyMatrix
 {
     public static void main(String[] args)
     {
