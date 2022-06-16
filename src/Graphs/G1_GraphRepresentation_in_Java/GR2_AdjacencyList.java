@@ -15,7 +15,7 @@
    5 - 1, 3
  */
 
-package Graphs.GraphRepresentation_in_Java;
+package Graphs.G1_GraphRepresentation_in_Java;
 import java.util.ArrayList;
 
 public class GR2_AdjacencyList {
