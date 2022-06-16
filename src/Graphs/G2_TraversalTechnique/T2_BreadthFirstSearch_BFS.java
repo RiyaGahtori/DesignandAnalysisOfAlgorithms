@@ -1,4 +1,4 @@
 package Graphs.G2_TraversalTechnique;
 
-public class G2_BreadthFirstSearch {
+public class T2_BreadthFirstSearch_BFS {
 }
