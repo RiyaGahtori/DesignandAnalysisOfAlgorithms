@@ -18,7 +18,7 @@
 package Graphs.G1_GraphRepresentation_in_Java;
 import java.util.ArrayList;
 
-public class GR2_AdjacencyList {
+public class G2_AdjacencyList {
     public static void main(String[] args)
     {
         int n = 3, m = 3;
