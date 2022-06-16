@@ -1,4 +1,4 @@
-package Graphs.GraphRepresentation_in_Java;
+package Graphs.G1_GraphRepresentation_in_Java;
 
 public class GR1_AdjacencyMatrix
 {
